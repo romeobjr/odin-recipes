@@ -1,1 +1,1 @@
-# odin-recipes
+# workout-split
